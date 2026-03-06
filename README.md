@@ -1,4 +1,4 @@
-£# -Quantium_retail-analytics
+# -Quantium_retail-analytics
 
 #background information
 
